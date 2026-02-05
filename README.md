@@ -67,17 +67,22 @@ Hi, I’m **Jashwanth S** 👋 — an **AI/ML Engineer** focused on building **p
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.ne
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="40"/>
+</p>
+
+### 🛠️ Automation & Tools
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/>
+</p>
 
 ---
 
 ### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=JASHWANTHS07\&limit=5\&theme=dark\&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=JASHWANTHS07&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
