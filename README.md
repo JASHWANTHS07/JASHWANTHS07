@@ -35,6 +35,17 @@ Hi, I’m **Jashwanth S** 👋 — an **AI/ML Engineer** focused on building **p
 
 ---
 
+## 🏆 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **SpeakEasy** 🗣️ | Real-time Indian language translation system achieving **23.4 BLEU** (En-Hi). Supports 6+ languages with <1.8s latency. | `Transformers` `HuggingFace` `Python` |
+| **Enterprise RAG** 🤖 | Retrieval system processing **5,000+ docs** with 2.3s retrieval time and **85% relevance accuracy**. | `LangChain` `FAISS` `Streamlit` |
+| **IoT Predictive Maint.** ⚙️ | Forecasting device failures with **92% accuracy** and **87% recall**, deployed on AWS. | `AWS` `XGBoost` `Flask` |
+| **Waste Mgmt System** ♻️ | CNN-based waste detection with **92% accuracy** (Patent Published: 202341082049 A). | `OpenCV` `TensorFlow` `CNN` |
+
+---
+
 ## 💻 Tech Stack (Hybrid · Modern)
 
 ### 🧠 AI / ML / GenAI
