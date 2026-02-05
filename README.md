@@ -85,4 +85,7 @@ Hi, I’m **Jashwanth S** 👋 — an **AI/ML Engineer** focused on building **p
 
 ---
 
-> **Always learning. Always building. Always improving.**
+<p align="center">
+  <b><i>Always learning. Always building. Always improving.</i></b>
+</p>
+
