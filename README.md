@@ -2,12 +2,13 @@
 
 Hi, I’m **Jashwanth S** 👋 — an **AI/ML Engineer** who enjoys building **production-ready GenAI systems**, **RAG pipelines**, and **scalable data platforms**. I focus on turning complex ideas into reliable, cost-efficient solutions that actually work in the real world.
 
-🔭 **Currently working on**: AI automation workflows, OCR & document intelligence, and large-scale data pipelines
-👯 **Looking to collaborate on**: Open-source AI/ML, GenAI apps, LLM-powered tools, data engineering, and automation (Python, Docker, n8n)
-🤝 **Looking for help with**: Advanced LLM fine-tuning, production-grade MLOps, agent orchestration, and scalable GenAI systems
-🌱 **Currently learning**: LLM internals, AI agents, cloud-native ML, MLOps best practices, and low-latency inference
-💬 **Ask me about**: Machine Learning, Deep Learning, Generative AI, RAG systems, OCR, data engineering, MLOps, and system design
+🔭 **Currently working on**: AI automation workflows, OCR & document intelligence, and large-scale data pipelines  
+👯 **Looking to collaborate on**: Open-source AI/ML, GenAI apps, LLM-powered tools, data engineering, and automation (Python, Docker, n8n)  
+🤝 **Looking for help with**: Advanced LLM fine-tuning, production-grade MLOps, agent orchestration, and scalable GenAI systems  
+🌱 **Currently learning**: LLM internals, AI agents, cloud-native ML, MLOps best practices, and low-latency inference  
+💬 **Ask me about**: Machine Learning, Deep Learning, Generative AI, RAG systems, OCR, data engineering, MLOps, and system design  
 ⚡ **Fun fact**: I enjoy debugging as much as building—most of my learning comes from breaking things and fixing them 🚀
+
 
 ---
 
