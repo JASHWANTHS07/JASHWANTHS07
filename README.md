@@ -13,7 +13,7 @@ Hi, I’m **Jashwanth S** 👋 — an **AI/ML Engineer** focused on building **p
 
 ## 🌐 Socials
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jashwanths07.github.io/)
+[![My Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jashwanths07.github.io/)
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jashwanths07/)
